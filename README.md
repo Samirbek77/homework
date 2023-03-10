@@ -1,1 +1,1 @@
-# homework
+Sensorika py12
